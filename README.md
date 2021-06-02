@@ -10,4 +10,4 @@ Three android apps (Emitter - Middle Man - Receiver ) which run on same device c
 
 ### Demo Video
 
-<img src="Demo.mp4" height="300em">
+<img src="demo.gif" height="400em" width="200em">
